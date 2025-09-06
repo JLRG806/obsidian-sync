@@ -8,7 +8,7 @@ This script handles commits and pushes for you, so you never lose your work.
 ## ⚡ Features
 - Automatic Git commit & push  
 - SSH key support (no password typing)  
-- Clean, minimal output with a success message  
+- Clean, minimal output
 
 ---
 
