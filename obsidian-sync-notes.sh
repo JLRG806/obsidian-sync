@@ -71,8 +71,8 @@ eval "$(ssh-agent -k)"
 
 # Success message
 echo "----------------------------------------"
-echo "📦 Obsidian Notes Backup"
-echo "✅ Backup completed at $(date '+%Y-%m-%d %H:%M:%S')"
+echo "📦 Obsidian Notes Sync"
+echo "✅ Sync completed at $(date '+%Y-%m-%d %H:%M:%S')"
 echo "----------------------------------------"
 
 
